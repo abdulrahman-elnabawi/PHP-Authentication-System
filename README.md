@@ -50,14 +50,15 @@ newproject/
 └── style.css
 
 
----
+
 
 ## Setup Instructions
 
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/your-repo.git
+git clone(https://github.com/abdulrahman-elnabawi/PHP-Authentication-System.git)
+
 #2. Move project to XAMPP
 
 Place it inside:
